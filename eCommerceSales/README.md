@@ -15,7 +15,7 @@ This project involves analyzing sales data from an e-commerce platform and build
 - **Market Performance**: Data showes that Portugal and France were the largest contributors to profit, accounting for nearly half of the overall revenue.
   
 ## Dachboard Screenshot
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](eCommDashboard.png)
 
 ## How to Access/Run the Dashboard
 You can view the dashboard by reviewing the Excel file attached in the repository.
