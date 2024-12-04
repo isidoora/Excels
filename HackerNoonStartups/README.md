@@ -10,7 +10,7 @@ The goal was to uncover global startup trending providing a deeper understanding
 - **Dominant Domains**: The most commonly used domain is .com (57.9%), followed by .io (8.9%) and .ai (5.3%), which reflects the growing prominence of tech and AI startups.
 
 ## Dashboard Screenshot
-![Dashboard Screenshot](StartupsDashboardScreenshoot.png)
+![Dashboard Screenshot](StartupsDashboardScreenshot.png)
 
 ## How to Access/Run the Dashboard
 You can view the dashboard by reviewing the Excel file attached in the repository.
